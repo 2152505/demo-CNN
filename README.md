@@ -210,7 +210,7 @@ class TanhActivator(object):
 #         return 1 if output > 0 else 0
 
 ```
-
+```
 # 1. 当为array的时候，默认d*f就是对应元素的乘积，multiply也是对应元素的乘积，dot（d,f）会转化为矩阵的乘积， dot点乘意味着相加，而multiply只是对应元素相乘，不相加
 # 2. 当为mat的时候，默认d*f就是矩阵的乘积，multiply转化为对应元素的乘积，dot（d,f）为矩阵的乘积
 
@@ -256,54 +256,7 @@ class TanhActivator(object):
 #
 #     def backward(self, output):  # 后向计算，计算导数
 #         return 1 if output > 0 else 0
-
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
+```
 DNN全连接网络层的实现
 将下面的代码存储为DNN.py
 
