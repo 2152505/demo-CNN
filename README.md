@@ -598,7 +598,7 @@ class MaxPoolingLayer(object):
 
 网络层级结构示意图如下：
 
-[](./image/1.png)
+![](./image/1.png)
 
 
 网络层级结构概述：5层神经网络
