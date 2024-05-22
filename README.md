@@ -5,8 +5,11 @@ python3.8.19
 
 ## 运行方式
 1. 下载数据集
-2. MNIST.py文件
-3. CNN.py文件
+2. 编写MNIST.py文件
+3. 编写CNN.py文件
+4. 编写Activation.py文件
+5. 编写DNN.py文件
+6. 运行train.py文件
    
 
 ## 基本原理
